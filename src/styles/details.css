@@ -1,0 +1,32 @@
+.details {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4rem;
+}
+.fullDescription {
+    width: 100%;
+    text-align: left;
+    font-size: 1vw;
+    border: 3px solid lightblue;
+    padding: 20px;
+    background: rgb(227, 248, 255);
+}
+.courseDetailsImg {
+    width: 30%;
+}
+.toptop {
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    border: 3px solid lightblue;
+    background: rgb(244, 252, 255);
+}
+.extraDetails {
+    font-size: 2vw;
+}
+.detailsTitle {
+    margin-left: 1em;
+    font-size: 2.5vw;
+}
